@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/ESP/proyectos/boardinout/build/CMakeFiles/bootloader
+C:/ESP/proyectos/boardinout/build/CMakeFiles/bootloader.rule
+C:/ESP/proyectos/boardinout/build/CMakeFiles/bootloader-complete.rule
+C:/ESP/proyectos/boardinout/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/ESP/proyectos/boardinout/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/ESP/proyectos/boardinout/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/ESP/proyectos/boardinout/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/ESP/proyectos/boardinout/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/ESP/proyectos/boardinout/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/ESP/proyectos/boardinout/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
